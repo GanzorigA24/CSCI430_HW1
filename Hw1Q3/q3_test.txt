@@ -1,0 +1,16 @@
+Script started on 2026-09-02 18:33:22+00:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="155" LINES="7"]
+[?2004h[0;32m@GanzorigA24 [0m➜ [1;34m/workspaces/CSCI430_HW1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$ javac Person.java PersonList.java Mym[KMain.java
+[?2004l[?2004h[0;32m@GanzorigA24 [0m➜ [1;34m/workspaces/CSCI430_HW1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$ java MyMain
+[?2004lGanzorig Arvinbileg 1024
+Sarah Tsogtsaikhan 1001
+Micheal Jackson 1002
+Dwayne Johnson 1003
+Steph Curry 1004
+James Harden 1005
+Person with ID 1002 is at index: 2
+Person with ID 1005 is at index: 5
+Person with ID 9999 is at index: -1
+[?2004h[0;32m@GanzorigA24 [0m➜ [1;34m/workspaces/CSCI430_HW1/Hw1Q3 [0;36m([1;31mmain[0;36m) [0m$ exit
+[?2004lexit
+
+Script done on 2026-09-02 18:33:51+00:00 [COMMAND_EXIT_CODE="0"]
